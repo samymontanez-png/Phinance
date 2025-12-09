@@ -1,0 +1,14 @@
+numpy
+pandas
+matplotlib
+scipy
+scikit-learn
+yfinance
+statsmodels
+openpyxl
+pymdp>=1.0.0
+torch
+seaborn
+python-dateutil
+tqdm
+
